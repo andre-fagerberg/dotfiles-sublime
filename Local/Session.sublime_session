@@ -1,0 +1,1725 @@
+{
+	"folder_history":
+	[
+		"/Users/andre/CrmDev/NettoEKP",
+		"/Users/andre/teamsportia/smuts",
+		"/Users/andre/RoR/tabs_test",
+		"/Users/andre/teamsportia/ralf",
+		"/Users/andre/RoR/etray-auction-site",
+		"/Users/andre/Documents",
+		"/Users/andre/RoR/heroku-portfolio"
+	],
+	"last_version": 3083,
+	"last_window_id": 301,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 855.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ife	if … else … end"
+					],
+					[
+						"ass",
+						"association"
+					],
+					[
+						"check",
+						"check_boxes"
+					],
+					[
+						"sch",
+						"schedule_id"
+					],
+					[
+						"up",
+						"updated_at"
+					],
+					[
+						"ans",
+						"answer_form"
+					],
+					[
+						"answ",
+						"answer_form_id"
+					],
+					[
+						"answe",
+						"answer_form"
+					],
+					[
+						"crea",
+						"create_permanent_answer_form"
+					],
+					[
+						"gene",
+						"generate_one_answer_form"
+					],
+					[
+						"sche",
+						"scheduled_time"
+					],
+					[
+						"per",
+						"permanent_schedule"
+					],
+					[
+						"day",
+						"day_in_period"
+					],
+					[
+						"destina",
+						"destination_type"
+					],
+					[
+						"pe",
+						"permanent_schedule"
+					],
+					[
+						"Sho",
+						"show_element"
+					],
+					[
+						"hide_",
+						"hide_input"
+					],
+					[
+						"hide",
+						"hide_checkbox"
+					],
+					[
+						"radio",
+						"radio_buttons"
+					],
+					[
+						"quick",
+						"quick-create-description-type"
+					],
+					[
+						"quick-crea",
+						"quick-create-call-description"
+					],
+					[
+						"module",
+						"module_create"
+					],
+					[
+						"new",
+						"new_call_link_contact"
+					],
+					[
+						"note",
+						"noteObject"
+					],
+					[
+						"call",
+						"getCallObject"
+					],
+					[
+						"proce",
+						"processNote"
+					],
+					[
+						"account",
+						"account_name"
+					],
+					[
+						"acc",
+						"account_id"
+					],
+					[
+						"url",
+						"url2"
+					],
+					[
+						"link",
+						"link_name"
+					],
+					[
+						"li",
+						"link"
+					],
+					[
+						"process",
+						"processNote"
+					],
+					[
+						"pr",
+						"primary"
+					],
+					[
+						"na",
+						"name_2"
+					],
+					[
+						"di",
+						"display_name"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andre/teamsportia/smuts/app/models/shop.rb",
+				"/Users/andre/teamsportia/smuts/app/assets/stylesheets/mailings.css.scss",
+				"/Users/andre/teamsportia/smuts/config/database.yml",
+				"/Users/andre/teamsportia/smuts/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/views/questionnaires/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/answer_form/show.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/_forms_list.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/answer_form_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/answer_form.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/shared/_contact_us.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/config/routes.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/_form.html.haml",
+				"/Users/andre/sportbrevet/20150512/sportbrevet.html",
+				"/Users/andre/Desktop/teamsportia.html",
+				"/Users/andre/CrmDev/NettoEKP/app/models/schedule.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/attachment.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/schedules_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/calendar_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/forms.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/application.js",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/schedules.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml.example",
+				"/Users/andre/CrmDev/NettoEKP/config/locales/database.yml.example",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/api/AccountHistoryApi.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.js",
+				"/Users/andre/Desktop/quick_call_visa_holmlund",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/models/question.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/users/index.html.haml",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/manifest.php",
+				"/usr/local/var/mysql/ANDREs-Lodon-MBP.local.err",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.js",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/manifest.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/quick_create_case.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/files/quick_create_call/quick_create_call.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/manifest.php",
+				"/private/etc/apache2/extra/httpd-vhosts.conf"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mailing_shops",
+					"tracking_select",
+					"association",
+					"text_box",
+					"borås city och knalleland",
+					"helper",
+					"require_once",
+					"myCaseMacro",
+					"CASE",
+					"case",
+					"$email_id",
+					"$ret",
+					"ubject",
+					"will_paginate",
+					"time",
+					"current_time",
+					"Time.zone",
+					"permanent",
+					"generate_answer_forms",
+					"check_and_create_id",
+					"Fakenberg",
+					"aktuella formulär",
+					"permanent_schedule",
+					"complete = false",
+					"generate_answer_forms",
+					"besvarad",
+					"Arkiverade",
+					"oldforms",
+					"uschforms",
+					"Aktuella formulär",
+					"start_display",
+					"Ej besvarad, efter deadline",
+					"display",
+					"efter deadline",
+					"Ej besvarad, efter deadline",
+					"completed?",
+					"tack för att du",
+					"Besvarad",
+					"invalido",
+					"warn",
+					"hours",
+					"forms_calendar",
+					"ekp_ro",
+					"hours",
+					"display",
+					"DestAll",
+					"hur ",
+					"active",
+					"key_calls",
+					"onRadioBtn",
+					"</ul>",
+					"ul",
+					"br",
+					"setSystemFromType",
+					"_render",
+					"systemfromtype",
+					"quick-create-call-description",
+					"onSaveClick",
+					"onRadioBtn",
+					"simple",
+					"subject",
+					"call_id",
+					"account_id",
+					"y",
+					"account_id",
+					"contactObj",
+					"processNote",
+					"this.processNote",
+					"loadData",
+					"new_call_link_note",
+					"new_call_link_",
+					"subject",
+					"account_contacts",
+					"new_call_link_contact",
+					"account_id",
+					"new_call_data",
+					"contactObj",
+					"this.processNote();",
+					"process",
+					"noteObj",
+					"new_call_link_contact",
+					"subject",
+					"new_call_link_contact",
+					"subject",
+					"getCallObject",
+					"ids",
+					"json",
+					"succe",
+					"rest",
+					"Accounts",
+					"quick-create-case-account",
+					"quick-create-case-system",
+					"team",
+					"netto",
+					"contact",
+					"team",
+					"case_type_c",
+					"team",
+					"team_id_list",
+					"accounts",
+					"processContact",
+					"processCommon",
+					"description",
+					"onSaveClick",
+					"held",
+					"var url = app.api.buildURL",
+					"var url = app.api.buildURL(\"Notes\");",
+					"case",
+					"description",
+					"netto",
+					"quick-create-case-team",
+					"quick-create-case-system",
+					"netto_",
+					"processCommon",
+					"quick-create-case-type",
+					"list",
+					"processCommon",
+					"Accounts",
+					"Teams",
+					"Accounts",
+					"#quick-create-case-account",
+					"quick-create-case-account",
+					"accountjson",
+					"accounts",
+					"quick-create-case-system",
+					"system"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"radio_buttons",
+						"vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb"
+					],
+					[
+						"calendar",
+						"app/controllers/calendar_controller.rb"
+					],
+					[
+						"answe",
+						"app/models/answer_form.rb"
+					],
+					[
+						"bootstrap",
+						"lib/tasks/bootstrap.rake"
+					],
+					[
+						"tasks",
+						"vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 559.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ife	if … else … end"
+					],
+					[
+						"ass",
+						"association"
+					],
+					[
+						"check",
+						"check_boxes"
+					],
+					[
+						"sch",
+						"schedule_id"
+					],
+					[
+						"up",
+						"updated_at"
+					],
+					[
+						"ans",
+						"answer_form"
+					],
+					[
+						"answ",
+						"answer_form_id"
+					],
+					[
+						"answe",
+						"answer_form"
+					],
+					[
+						"crea",
+						"create_permanent_answer_form"
+					],
+					[
+						"gene",
+						"generate_one_answer_form"
+					],
+					[
+						"sche",
+						"scheduled_time"
+					],
+					[
+						"per",
+						"permanent_schedule"
+					],
+					[
+						"day",
+						"day_in_period"
+					],
+					[
+						"destina",
+						"destination_type"
+					],
+					[
+						"pe",
+						"permanent_schedule"
+					],
+					[
+						"Sho",
+						"show_element"
+					],
+					[
+						"hide_",
+						"hide_input"
+					],
+					[
+						"hide",
+						"hide_checkbox"
+					],
+					[
+						"radio",
+						"radio_buttons"
+					],
+					[
+						"quick",
+						"quick-create-description-type"
+					],
+					[
+						"quick-crea",
+						"quick-create-call-description"
+					],
+					[
+						"module",
+						"module_create"
+					],
+					[
+						"new",
+						"new_call_link_contact"
+					],
+					[
+						"note",
+						"noteObject"
+					],
+					[
+						"call",
+						"getCallObject"
+					],
+					[
+						"proce",
+						"processNote"
+					],
+					[
+						"account",
+						"account_name"
+					],
+					[
+						"acc",
+						"account_id"
+					],
+					[
+						"url",
+						"url2"
+					],
+					[
+						"link",
+						"link_name"
+					],
+					[
+						"li",
+						"link"
+					],
+					[
+						"process",
+						"processNote"
+					],
+					[
+						"pr",
+						"primary"
+					],
+					[
+						"na",
+						"name_2"
+					],
+					[
+						"di",
+						"display_name"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": " $checks = $(':textarea')\n  $checks.on 'insert', ->\n    string = $checks.filter(':textarea').map((i, v) ->\n      @value)\n    $('input[id^=\"mailing_shop_ids_\"]').click()\n    return\n  return\n  \n",
+					"settings":
+					{
+						"buffer_size": 192,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andre/teamsportia/smuts/app/models/shop.rb",
+				"/Users/andre/teamsportia/smuts/app/assets/stylesheets/mailings.css.scss",
+				"/Users/andre/teamsportia/smuts/config/database.yml",
+				"/Users/andre/teamsportia/smuts/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/views/questionnaires/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/answer_form/show.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/_forms_list.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/answer_form_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/answer_form.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/shared/_contact_us.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/config/routes.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/_form.html.haml",
+				"/Users/andre/sportbrevet/20150512/sportbrevet.html",
+				"/Users/andre/Desktop/teamsportia.html",
+				"/Users/andre/CrmDev/NettoEKP/app/models/schedule.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/attachment.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/schedules_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/calendar_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/forms.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/application.js",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/schedules.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml.example",
+				"/Users/andre/CrmDev/NettoEKP/config/locales/database.yml.example",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/api/AccountHistoryApi.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.js",
+				"/Users/andre/Desktop/quick_call_visa_holmlund",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/models/question.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/users/index.html.haml",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/manifest.php",
+				"/usr/local/var/mysql/ANDREs-Lodon-MBP.local.err",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.js",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/manifest.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/quick_create_case.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/files/quick_create_call/quick_create_call.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/manifest.php",
+				"/private/etc/apache2/extra/httpd-vhosts.conf"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mailing_shops",
+					"tracking_select",
+					"association",
+					"text_box",
+					"borås city och knalleland",
+					"helper",
+					"require_once",
+					"myCaseMacro",
+					"CASE",
+					"case",
+					"$email_id",
+					"$ret",
+					"ubject",
+					"will_paginate",
+					"time",
+					"current_time",
+					"Time.zone",
+					"permanent",
+					"generate_answer_forms",
+					"check_and_create_id",
+					"Fakenberg",
+					"aktuella formulär",
+					"permanent_schedule",
+					"complete = false",
+					"generate_answer_forms",
+					"besvarad",
+					"Arkiverade",
+					"oldforms",
+					"uschforms",
+					"Aktuella formulär",
+					"start_display",
+					"Ej besvarad, efter deadline",
+					"display",
+					"efter deadline",
+					"Ej besvarad, efter deadline",
+					"completed?",
+					"tack för att du",
+					"Besvarad",
+					"invalido",
+					"warn",
+					"hours",
+					"forms_calendar",
+					"ekp_ro",
+					"hours",
+					"display",
+					"DestAll",
+					"hur ",
+					"active",
+					"key_calls",
+					"onRadioBtn",
+					"</ul>",
+					"ul",
+					"br",
+					"setSystemFromType",
+					"_render",
+					"systemfromtype",
+					"quick-create-call-description",
+					"onSaveClick",
+					"onRadioBtn",
+					"simple",
+					"subject",
+					"call_id",
+					"account_id",
+					"y",
+					"account_id",
+					"contactObj",
+					"processNote",
+					"this.processNote",
+					"loadData",
+					"new_call_link_note",
+					"new_call_link_",
+					"subject",
+					"account_contacts",
+					"new_call_link_contact",
+					"account_id",
+					"new_call_data",
+					"contactObj",
+					"this.processNote();",
+					"process",
+					"noteObj",
+					"new_call_link_contact",
+					"subject",
+					"new_call_link_contact",
+					"subject",
+					"getCallObject",
+					"ids",
+					"json",
+					"succe",
+					"rest",
+					"Accounts",
+					"quick-create-case-account",
+					"quick-create-case-system",
+					"team",
+					"netto",
+					"contact",
+					"team",
+					"case_type_c",
+					"team",
+					"team_id_list",
+					"accounts",
+					"processContact",
+					"processCommon",
+					"description",
+					"onSaveClick",
+					"held",
+					"var url = app.api.buildURL",
+					"var url = app.api.buildURL(\"Notes\");",
+					"case",
+					"description",
+					"netto",
+					"quick-create-case-team",
+					"quick-create-case-system",
+					"netto_",
+					"processCommon",
+					"quick-create-case-type",
+					"list",
+					"processCommon",
+					"Accounts",
+					"Teams",
+					"Accounts",
+					"#quick-create-case-account",
+					"quick-create-case-account",
+					"accountjson",
+					"accounts",
+					"quick-create-case-system",
+					"system"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 192,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										192,
+										192
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 881 0 559 877 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"radio_buttons",
+						"vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb"
+					],
+					[
+						"calendar",
+						"app/controllers/calendar_controller.rb"
+					],
+					[
+						"answe",
+						"app/models/answer_form.rb"
+					],
+					[
+						"bootstrap",
+						"lib/tasks/bootstrap.rake"
+					],
+					[
+						"tasks",
+						"vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 291,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ife	if … else … end"
+					],
+					[
+						"ass",
+						"association"
+					],
+					[
+						"check",
+						"check_boxes"
+					],
+					[
+						"sch",
+						"schedule_id"
+					],
+					[
+						"up",
+						"updated_at"
+					],
+					[
+						"ans",
+						"answer_form"
+					],
+					[
+						"answ",
+						"answer_form_id"
+					],
+					[
+						"answe",
+						"answer_form"
+					],
+					[
+						"crea",
+						"create_permanent_answer_form"
+					],
+					[
+						"gene",
+						"generate_one_answer_form"
+					],
+					[
+						"sche",
+						"scheduled_time"
+					],
+					[
+						"per",
+						"permanent_schedule"
+					],
+					[
+						"day",
+						"day_in_period"
+					],
+					[
+						"destina",
+						"destination_type"
+					],
+					[
+						"pe",
+						"permanent_schedule"
+					],
+					[
+						"Sho",
+						"show_element"
+					],
+					[
+						"hide_",
+						"hide_input"
+					],
+					[
+						"hide",
+						"hide_checkbox"
+					],
+					[
+						"radio",
+						"radio_buttons"
+					],
+					[
+						"quick",
+						"quick-create-description-type"
+					],
+					[
+						"quick-crea",
+						"quick-create-call-description"
+					],
+					[
+						"module",
+						"module_create"
+					],
+					[
+						"new",
+						"new_call_link_contact"
+					],
+					[
+						"note",
+						"noteObject"
+					],
+					[
+						"call",
+						"getCallObject"
+					],
+					[
+						"proce",
+						"processNote"
+					],
+					[
+						"account",
+						"account_name"
+					],
+					[
+						"acc",
+						"account_id"
+					],
+					[
+						"url",
+						"url2"
+					],
+					[
+						"link",
+						"link_name"
+					],
+					[
+						"li",
+						"link"
+					],
+					[
+						"process",
+						"processNote"
+					],
+					[
+						"pr",
+						"primary"
+					],
+					[
+						"na",
+						"name_2"
+					],
+					[
+						"di",
+						"display_name"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/andre/RoR/tabs_test/app/views/serif_fonts/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 214,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 327,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 147.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"reindet",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/andre/RoR/tabs_test",
+				"/Users/andre/RoR/tabs_test/app",
+				"/Users/andre/RoR/tabs_test/app/assets",
+				"/Users/andre/RoR/tabs_test/app/assets/javascripts",
+				"/Users/andre/RoR/tabs_test/app/controllers",
+				"/Users/andre/RoR/tabs_test/app/models",
+				"/Users/andre/RoR/tabs_test/app/views",
+				"/Users/andre/RoR/tabs_test/app/views/serif_fonts",
+				"/Users/andre/RoR/tabs_test/config"
+			],
+			"file_history":
+			[
+				"/Users/andre/RoR/tabs_test/app/models/serif_font.rb",
+				"/Users/andre/RoR/tabs_test/app/controllers/sans_serif_fonts_controller.rb",
+				"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/andre/RoR/tabs_test/app/models/website.rb",
+				"/Users/andre/RoR/tabs_test/app/views/serif_fonts/_form_test.erb",
+				"/Users/andre/RoR/tabs_test/app/views/serif_fonts/_test_form",
+				"/Users/andre/RoR/tabs_test/_test_form",
+				"/Users/andre/teamsportia/smuts/app/models/shop.rb",
+				"/Users/andre/teamsportia/smuts/app/assets/stylesheets/mailings.css.scss",
+				"/Users/andre/teamsportia/smuts/config/database.yml",
+				"/Users/andre/teamsportia/smuts/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/views/questionnaires/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/answer_form/show.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/views/calendar/_forms_list.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/answer_form_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/answer_form.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/shared/_contact_us.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/config/routes.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/_form.html.haml",
+				"/Users/andre/sportbrevet/20150512/sportbrevet.html",
+				"/Users/andre/Desktop/teamsportia.html",
+				"/Users/andre/CrmDev/NettoEKP/app/models/schedule.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/models/attachment.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/schedules_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/controllers/calendar_controller.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/forms.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/Gemfile",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/application.js",
+				"/Users/andre/CrmDev/NettoEKP/app/assets/javascripts/schedules.js.coffee",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml",
+				"/Users/andre/CrmDev/NettoEKP/config/database.yml.example",
+				"/Users/andre/CrmDev/NettoEKP/config/locales/database.yml.example",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/api/AccountHistoryApi.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_account_call_history/files/account_call_history/views/account_call_history.js",
+				"/Users/andre/Desktop/quick_call_visa_holmlund",
+				"/Users/andre/CrmDev/NettoEKP/vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake",
+				"/Users/andre/CrmDev/NettoEKP/app/views/schedules/index.html.haml",
+				"/Users/andre/CrmDev/NettoEKP/app/models/question.rb",
+				"/Users/andre/CrmDev/NettoEKP/app/views/users/index.html.haml",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/manifest.php",
+				"/usr/local/var/mysql/ANDREs-Lodon-MBP.local.err",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_call/quick_create_call.js",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.hbs",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.php",
+				"/Users/andre/apache_vh/crm2/custom/clients/base/views/quick_create_case/quick_create_case.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/apache_vh/crm1/custom/clients/base/views/quick_create_case/dashlet-config.hbs",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/manifest.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_netto_quick_create_case/files/quick_create_case/quick_create_case.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/files/quick_create_call/quick_create_call.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.js",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_meeting/files/quick_create_meeting/quick_create_meeting.php",
+				"/Users/andre/CrmDev/LodonSugarModules/dashlet_quick_create_call/manifest.php",
+				"/private/etc/apache2/extra/httpd-vhosts.conf"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"strong",
+					"mailing_shops",
+					"tracking_select",
+					"association",
+					"text_box",
+					"borås city och knalleland",
+					"helper",
+					"require_once",
+					"myCaseMacro",
+					"CASE",
+					"case",
+					"$email_id",
+					"$ret",
+					"ubject",
+					"will_paginate",
+					"time",
+					"current_time",
+					"Time.zone",
+					"permanent",
+					"generate_answer_forms",
+					"check_and_create_id",
+					"Fakenberg",
+					"aktuella formulär",
+					"permanent_schedule",
+					"complete = false",
+					"generate_answer_forms",
+					"besvarad",
+					"Arkiverade",
+					"oldforms",
+					"uschforms",
+					"Aktuella formulär",
+					"start_display",
+					"Ej besvarad, efter deadline",
+					"display",
+					"efter deadline",
+					"Ej besvarad, efter deadline",
+					"completed?",
+					"tack för att du",
+					"Besvarad",
+					"invalido",
+					"warn",
+					"hours",
+					"forms_calendar",
+					"ekp_ro",
+					"hours",
+					"display",
+					"DestAll",
+					"hur ",
+					"active",
+					"key_calls",
+					"onRadioBtn",
+					"</ul>",
+					"ul",
+					"br",
+					"setSystemFromType",
+					"_render",
+					"systemfromtype",
+					"quick-create-call-description",
+					"onSaveClick",
+					"onRadioBtn",
+					"simple",
+					"subject",
+					"call_id",
+					"account_id",
+					"y",
+					"account_id",
+					"contactObj",
+					"processNote",
+					"this.processNote",
+					"loadData",
+					"new_call_link_note",
+					"new_call_link_",
+					"subject",
+					"account_contacts",
+					"new_call_link_contact",
+					"account_id",
+					"new_call_data",
+					"contactObj",
+					"this.processNote();",
+					"process",
+					"noteObj",
+					"new_call_link_contact",
+					"subject",
+					"new_call_link_contact",
+					"subject",
+					"getCallObject",
+					"ids",
+					"json",
+					"succe",
+					"rest",
+					"Accounts",
+					"quick-create-case-account",
+					"quick-create-case-system",
+					"team",
+					"netto",
+					"contact",
+					"team",
+					"case_type_c",
+					"team",
+					"team_id_list",
+					"accounts",
+					"processContact",
+					"processCommon",
+					"description",
+					"onSaveClick",
+					"held",
+					"var url = app.api.buildURL",
+					"var url = app.api.buildURL(\"Notes\");",
+					"case",
+					"description",
+					"netto",
+					"quick-create-case-team",
+					"quick-create-case-system",
+					"netto_",
+					"processCommon",
+					"quick-create-case-type",
+					"list",
+					"processCommon",
+					"Accounts",
+					"Teams",
+					"Accounts",
+					"#quick-create-case-account",
+					"quick-create-case-account",
+					"accountjson",
+					"accounts",
+					"quick-create-case-system",
+					"system"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"test"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/andre/RoR/tabs_test"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/andre/RoR/tabs_test/app/views/serif_fonts/show.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 214,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										81,
+										81
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										132,
+										132
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 46 0 1394 877 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"_test_form"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"radio_buttons",
+						"vendor/bundle/ruby/2.0.0/gems/actionview-4.1.6/lib/action_view/helpers/tags/collection_radio_buttons.rb"
+					],
+					[
+						"calendar",
+						"app/controllers/calendar_controller.rb"
+					],
+					[
+						"answe",
+						"app/models/answer_form.rb"
+					],
+					[
+						"bootstrap",
+						"lib/tasks/bootstrap.rake"
+					],
+					[
+						"tasks",
+						"vendor/bundle/ruby/2.0.0/gems/ckeditor_rails-4.4.0/lib/ckeditor-rails/tasks.rake"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 297,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
